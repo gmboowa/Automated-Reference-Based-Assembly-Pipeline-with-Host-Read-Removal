@@ -64,6 +64,7 @@ cd Automated-Reference-Based-Assembly-Pipeline-with-Host-Read-Removal
 ### 2. Make the script executable
 
 To ensure the script can run properly, make it executable by using:
+
 ```bash
 chmod +x reference_assembly.sh
 ```
