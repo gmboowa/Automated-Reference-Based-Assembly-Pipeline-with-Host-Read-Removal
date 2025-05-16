@@ -1,5 +1,5 @@
 
-# Automated Reference-Based Assembly Pipeline with Host Read Removal
+# Automated reference-based assembly pipeline with host read removal
 
 ## Overview
 
